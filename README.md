@@ -113,11 +113,11 @@ GET /api/v1/users/ - Получение списка всех пользоват
 * Клонировать репозиторий и перейти в него в командной строке
 
 ```
-git clone git@github.com:Sergey-Ivch/api_yamdb.git
+git clone https://github.com/Sergey-Ivch/YaMDb.git
 ```
 
 ```
-cd api_api_yamdb
+cd api_yamdb
 ```
 
 * Cоздать и активировать виртуальное окружение:
