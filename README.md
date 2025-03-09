@@ -72,7 +72,7 @@
 
 ## Технологический стек:
 ![Python](https://img.shields.io/badge/Python-3.7-green) ![Django](https://img.shields.io/badge/Django-2.2.19-green)
-![Django REST framework](https://img.shields.io/badge/Django_REST_framework-green) ![SQLite3](https://img.shields.io/badge/SQLite3-green)
+![Django REST framework](https://img.shields.io/badge/Django_REST_framework-3.12.4-green) ![SQLite3](https://img.shields.io/badge/SQLite3-green)
 
 ## Библиотеки:
 - django-import-export
